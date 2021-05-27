@@ -1,0 +1,21 @@
+.projects{
+  background-color: #282c34;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  justify-content: center;
+  min-height: 700px;
+  padding-top: 50px;
+}
+
+.projects-body{
+  background-color: #282c34;
+  font-size: calc(5px + 2vmin);
+  color: white;
+  justify-content: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.coming-soon{
+  padding-top: 70px;
+}

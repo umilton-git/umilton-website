@@ -1,0 +1,9 @@
+.footer{
+  background-color: #282c34;
+  font-size: calc(2px + 2vmin);
+  color: darkgrey;
+  justify-content: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  min-height: 5vh;
+}
