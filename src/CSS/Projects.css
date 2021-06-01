@@ -13,9 +13,14 @@
   color: white;
   justify-content: center;
   padding-top: 20px;
-  padding-bottom: 20px;
 }
 
-.coming-soon{
-  padding-top: 70px;
+img {
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
+.coming-soon{
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+
